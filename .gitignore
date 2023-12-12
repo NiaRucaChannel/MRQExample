@@ -1,5 +1,8 @@
-# Visual Studio 2015 user specific files
+# Visual Studio 2019 user specific files
 .vs/
+
+# Visual Studio Code
+.vscode/
 
 # Compiled Object files
 *.slo
@@ -40,6 +43,7 @@
 *.sdf
 *.VC.db
 *.VC.opendb
+*.code-workspace
 
 # Precompiled Assets
 SourceArt/**/*.png
@@ -72,3 +76,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+#Package
+WindowsNoEditor/*
+Windows/*
